@@ -38,4 +38,4 @@ Download the compiled app package directly:
 4. Click **Run** to build, install, and launch the application on an emulator or a connected Android device.
 
 ---
-*Feel free to customize the app, contribute, or just use it for your personal journaling needs. Thank you po. :)*
+*Thank you po. :)*
