@@ -29,7 +29,7 @@ This is a personal project crafted to match my own tastes and workflow.
 
 ### Download APK
 Download the compiled app package directly:
-- [Download jOURney.apk (Direct Link)](https://example.com/journey.apk)  <!-- Replace with actual link -->
+- [Download jOURney.apk (Direct Link)](https://github.com/kyclm-cml/jOURney/blob/main/app/journey.apk)
 
 ### Build From Source
 1. Clone this repository.
